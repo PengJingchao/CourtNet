@@ -378,6 +378,5 @@ def train(g1_path_checkpoint=None, g2_path_checkpoint=None, dis_path_checkpoint=
 
 if __name__ == '__main__':
     train()
-    tensorboard --logdir=/home/pjc/MyProgram/MDvsFA_cGAN-master/pytorch_outputs/logs
 
     
